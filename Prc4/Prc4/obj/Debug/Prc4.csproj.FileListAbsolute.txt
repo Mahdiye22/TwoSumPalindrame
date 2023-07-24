@@ -1,0 +1,7 @@
+C:\Users\MyPC\source\repos\Prc4\Prc4\obj\Debug\Prc4.csprojAssemblyReference.cache
+C:\Users\MyPC\source\repos\Prc4\Prc4\obj\Debug\Prc4.csproj.CoreCompileInputs.cache
+C:\Users\MyPC\source\repos\Prc4\Prc4\bin\Debug\Prc4.exe.config
+C:\Users\MyPC\source\repos\Prc4\Prc4\bin\Debug\Prc4.exe
+C:\Users\MyPC\source\repos\Prc4\Prc4\bin\Debug\Prc4.pdb
+C:\Users\MyPC\source\repos\Prc4\Prc4\obj\Debug\Prc4.exe
+C:\Users\MyPC\source\repos\Prc4\Prc4\obj\Debug\Prc4.pdb
